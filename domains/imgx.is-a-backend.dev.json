@@ -7,15 +7,7 @@
     },
 
     "records": {
-        
-        "CNAME": "www.linkedin.com/in/inderpreetsinghmarwaha/",
-        "MX": [
-            {
-                "priority": 10,
-                "value": "mx1.improvmx.com."
-            }
-        ],
-      
+        "A": ["135.237.235.215]
     },
 
     "proxied": true
